@@ -5,7 +5,6 @@
 **Client:** Reggie Stephens Foundation (RSF)
 **Duration:** 8 weeks
 **Role:** Fundraising strategist (extern), mentored and coached throughout
-**Last updated:** 2026-06-22
 **Website:** [reggiestephens.org](https://reggiestephens.org)
 
 ---
@@ -344,5 +343,6 @@ This repository uses Claude as an **Expert Fundraising Strategist and Senior Com
 2. Every output clearly delineates the **Ask** (what we need) and the **Impact** (what their investment will produce).
 3. Proposals are formatted for scannability — busy executives should be able to extract key points at a glance.
 4. Campaign copy is always preceded by a brief strategic rationale (1–2 paragraphs) explaining why that angle was chosen.
-#   p w c - r s f - n o n p r o f i t - c o n s u l t i n g  
- 
+#   p w c - r s f - n o n p r o f i t - c o n s u l t i n g 
+ 
+ 
